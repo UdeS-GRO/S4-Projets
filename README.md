@@ -12,7 +12,7 @@ Ce site répertorie les projets réalisés par les étudiants  de génie robotiq
 
 **Équipe 4** - ROS Sensor Head ([matériel et logiciel](https://github.com/UdeS-GRO/S4H2019-ROS-sensor-head))
 
-**Équipe 5** - ArachnUS ([matériel et logiciel](https://github.com/UdeS-GRO/S4H2019-ROS-ArachnUS))
+**Équipe 5** - ArachnUS ([matériel et logiciel](https://github.com/UdeS-GRO/S4H2019-ArachnUS))
 
 **Équipe 6** - BARUS ([matériel et logiciel](https://github.com/UdeS-GRO/S4H2019-BARUS))
 
