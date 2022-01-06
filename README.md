@@ -2,6 +2,24 @@
 
 Ce site répertorie les projets réalisés par les étudiants  de génie robotique dans le cadre de la session S4. Les projets sont répertoriés par année.
 
+## 2021 (65e promotion)
+
+**Équipe 1** - Scarus ([GitHub](https://github.com/UdeS-GRO/S4H2021-Scarus))
+
+**Équipe 2** - QuadrUS ([GitHub](https://github.com/UdeS-GRO/S4H2021-QuadrUS))
+
+**Équipe 3** - MixUS ([GitHub](https://github.com/UdeS-GRO/MixUS))
+
+**Équipe 4** - Handling-Gro ([GitHub](https://github.com/UdeS-GRO/Handling-Gro))
+
+**Équipe 5** - SPUdeS ([GitHub](https://github.com/UdeS-GRO/SPUdeS))
+
+**Équipe 6** - SlirUS - suite de SLEARH de H21 ([GitHub](https://github.com/UdeS-GRO/S4H2020-SLEARH))
+
+**Équipe 7** - Level-US ([GitHub](https://github.com/UdeS-GRO/Level-US_GRO400_H21))
+
+**Équipe 8** - FuniBot ([GitHub](https://github.com/UdeS-GRO/neorobrooke-s4))
+
 ## 2020 (64e promotion)
 
 **Équipe 1** - Robot Delta ([GitHub](https://github.com/UdeS-GRO/S4H2020-Robot-Delta))
