@@ -34,7 +34,7 @@ Ce site répertorie les projets réalisés par les étudiants  de génie robotiq
 
 **Équipe 6** - HexaphobUS ([GitHub](https://github.com/UdeS-GRO/S4H2020-HexaphobUS))
 
-**Équipse 7 et 8** - Projet Argyll ([GitHub éq. 7](https://github.com/UdeS-GRO/S4H2020-Argyll-A), [GitHub éq. 8](https://github.com/UdeS-GRO/S4H2020-Argyll-B))
+**Équipes 7 et 8** - Projet Argyll ([GitHub éq. 7](https://github.com/UdeS-GRO/S4H2020-Argyll-A), [GitHub éq. 8](https://github.com/UdeS-GRO/S4H2020-Argyll-B))
 
 ## 2019 (63e promotion)
 
