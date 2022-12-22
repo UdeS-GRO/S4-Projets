@@ -2,6 +2,25 @@
 
 Ce site répertorie les projets réalisés par les étudiants  de génie robotique dans le cadre de la session S4. Les projets sont répertoriés par année.
 
+## 2022 (66e promotion)
+
+**Équipe 1** - RufUS ([GitHub](https://github.com/UdeS-GRO/S4H2022-RufUS))
+
+**Équipe 2** - PCBUS ([GitHub](https://github.com/UdeS-GRO/PCBUS))
+
+**Équipe 3** - CAMPUS ([GitHub](https://github.com/UdeS-GRO/CampUS))
+
+**Équipe 4** - Chess-Bras ([GitHub](https://github.com/ClanDesDindesLibres2))
+
+**Équipe 5** - Sym-Bot ([GitHub](https://github.com/UdeS-GRO/S4H2022-Sym-Bot))
+
+**Équipe 6** - Cagius ([GitHub](https://github.com/UdeS-GRO/S4H2022-Cagius))
+
+**Équipe 7** - MANUS ([GitHub](https://github.com/UdeS-GRO/S4H2022-MANUS))
+
+**Équipe 8** - BartendUS ([GitHub](https://github.com/UdeS-GRO/S4H2022-BartendUS))
+
+
 ## 2021 (65e promotion)
 
 **Équipe 1** - Scarus ([GitHub](https://github.com/UdeS-GRO/S4H2021-Scarus))
