@@ -2,6 +2,22 @@
 
 Ce site répertorie les projets réalisés par les étudiants  de génie robotique dans le cadre de la session S4. Les projets sont répertoriés par année.
 
+## 2023 (67e promotion)
+
+**Équipe 1** - ArmUs ([GitHub](https://github.com/UdeS-GRO/S4H2023-arm_us))
+
+**Équipe 2** - Connect4-3D ([GitHub](https://github.com/UdeS-GRO/S4H2023-Connect4-3D))
+
+**Équipe 3** - CaterPullUp ([GitHub](https://github.com/UdeS-GRO/S4H2023-CaterPullUp))
+
+**Équipe 4** - POLUS ([GitHub](https://github.com/UdeS-GRO/S4H2023-POLUS))
+
+**Équipe 5** - Jumpy ([GitHub](https://github.com/UdeS-GRO/S4H2023-jumpy))
+
+**Équipe 6** - ManUS Ludum ([GitHub](https://github.com/UdeS-GRO/S4H2023-manUS-ludum))
+
+**Équipe 7** - MANUS ([GitHub](https://github.com/UdeS-GRO/S4H2023-Puissance-Gant))
+
 ## 2022 (66e promotion)
 
 **Équipe 1** - RufUS ([GitHub](https://github.com/UdeS-GRO/S4H2022-RufUS))
