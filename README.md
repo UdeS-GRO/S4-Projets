@@ -2,6 +2,24 @@
 
 Ce site répertorie les projets réalisés par les étudiants  de génie robotique dans le cadre de la session S4. Les projets sont répertoriés par année.
 
+## 2024 (68e promotion)
+
+**Équipe 1** - Albert the Camera Robot ([GitHub](https://github.com/UdeS-GRO/S4H2024-Albert-the-Camera-Robot-HW))
+
+**Équipe 2** - StringUs ([GitHub](https://github.com/UdeS-GRO/S4H2024-StringUs))
+
+**Équipe 3** - Graphicus-03 ([GitHub](https://github.com/UdeS-GRO/S4H2024-Graphicus-03))
+
+**Équipe 4** - Rhu-Bickque-3 ([GitHub](https://github.com/UdeS-GRO/S4H2024-Rhu-Bickque-3))
+
+**Équipe 5** - Uppercut ([GitHub](https://github.com/UdeS-GRO/S4H2024-Uppercut))
+
+**Équipe 6** - Way 2 Strong ([GitHub](https://github.com/UdeS-GRO/S4H2024-Way-2-strong))
+
+**Équipe 7** - Walk Man ([GitHub](https://github.com/UdeS-GRO/S4H2024-Walk-Man))
+
+**Équipe 8** - Alpha-Bear-Omega-3 ([GitHub](https://github.com/UdeS-GRO/S4H2024-Alpha-Bear-Omega-3))
+
 ## 2023 (67e promotion)
 
 **Équipe 1** - ArmUs ([GitHub](https://github.com/UdeS-GRO/S4H2023-arm_us))
